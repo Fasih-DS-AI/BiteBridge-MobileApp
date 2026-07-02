@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BiteBridge</string>
+    <string name="tagline">Delicious food. Delivered to you.</string>
+    <string name="login">Log In</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Full Name</string>
+    <string name="phone">Phone Number</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+    <string name="have_account">Already have an account? Log In</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="place_order">Place Order</string>
+    <string name="delivery">Delivery</string>
+    <string name="pickup">Pickup</string>
+    <string name="total">Total</string>
+    <string name="clear_cart">Clear Cart</string>
+    <string name="confirm_order">Confirm Order</string>
+</resources>
