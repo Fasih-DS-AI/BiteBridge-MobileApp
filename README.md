@@ -44,15 +44,10 @@ BiteBridge is a native Android application I built to practice **end-to-end prod
 
 ## 📸 Screenshots
 
-> _Add your screenshots to a `docs/screenshots/` folder and update the paths below._
-
-| Login | Menu | Food Detail | Cart |
-|:---:|:---:|:---:|:---:|
-| _coming soon_ | _coming soon_ | _coming soon_ | _coming soon_ |
-
-| Checkout | Order Tracking | AI Assistant | Admin Panel |
-|:---:|:---:|:---:|:---:|
-| _coming soon_ | _coming soon_ | _coming soon_ | _coming soon_ |
+ <img width="557" height="1108" alt="image" src="https://github.com/user-attachments/assets/9c30782c-245d-415f-80d8-a5bc2ed2d9d5" />
+  <img width="516" height="1023" alt="image" src="https://github.com/user-attachments/assets/1f9de9d9-78b5-44ce-b807-6e798939e4e0" />
+![Uploading image.png…]()
+![Uploading image.png…]()
 
 ---
 
@@ -251,7 +246,6 @@ Released under the **MIT License**. Add a `LICENSE` file to formalize it — fee
 
 ## 👤 Author
 
-**Your Name**
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-site.com)
+FASIH UR REHMAN 
 
 > _If you found this project useful or interesting, consider giving it a ⭐ — it helps a lot!_
