@@ -44,10 +44,10 @@ BiteBridge is a native Android application I built to practice **end-to-end prod
 
 ## 📸 Screenshots
 
- <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/9c30782c-245d-415f-80d8-a5bc2ed2d9d5" />
-  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/1f9de9d9-78b5-44ce-b807-6e798939e4e0" />
-  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/16367a04-ea0d-4de5-8b7c-00e65a6d02ea" />
-  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/0f2023ab-55c8-489f-a714-cdff27ddbcb8" />
+ <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/9c30782c-245d-415f-80d8-a5bc2ed2d9d5" />
+  <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/1f9de9d9-78b5-44ce-b807-6e798939e4e0" />
+  <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/16367a04-ea0d-4de5-8b7c-00e65a6d02ea" />
+  <img width="200" height="350" alt="image" src="https://github.com/user-attachments/assets/0f2023ab-55c8-489f-a714-cdff27ddbcb8" />
 
   
 
